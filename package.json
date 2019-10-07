@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/TheHandyOwl/electronCodeEditor#readme",
   "devDependencies": {
-    "electron": "^1.7.6",
+    "electron": "^1.8.8",
     "monaco-loader": "^0.8.2"
   }
 }
